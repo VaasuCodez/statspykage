@@ -1,8 +1,8 @@
-# StatsPykage
+# [StatsPykage](https://pypi.org/project/StatsPykage/) <a name="top"></a>
 
-StatsPykage is a Python package for analysing probability distributions.
+[StatsPykage](https://pypi.org/project/StatsPykage/) is an open source Python package for analysing standard statistical distributions: Gaussian, Binomial, Poisson etc. distributions; hosted on [PyPi.org](https://pypi.org/).
 
-Data can be read from .txt files to instances of the Gaussian and Binomial distribution models. The package can be used to:
+Data can be read from .txt files to instances of the distribution models. The package can be used to:
 
 1. Compute the properties of a distribution, such as the mean and standard deviation.
 2. Compute a distribution's probability density function for given values and intervals.
@@ -10,10 +10,11 @@ Data can be read from .txt files to instances of the Gaussian and Binomial distr
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [License](#license)
+* [Footer](#footer)
 
 ## Installation <a name="installation"></a>
 
@@ -65,9 +66,15 @@ gaussian_one + gaussian_two
 
 ```
 
-## Contributing <a name="contributing"></a>
-Pull requests are welcome. For major changes, kindly open an issue first to discuss the same.
+## Contribute <a name="contribute"></a>
 
+Contributions are welcomed. For major changes, kindly open an issue first to discuss the same before creating a pull request.
 
 ## License <a name="license"></a>
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Footer <a name="footer"></a>
+
+Leave a star in the GitHub repository if you found this project helpful!
+
+[(Back to top)](#top)
